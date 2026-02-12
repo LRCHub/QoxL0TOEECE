@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cosmic",
+  "base_artist": "Red Velvet",
+  "createdAt": "2026-02-12T16:40:37.544088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cosmic Sigh",
+      "artist": "Erin Rae",
+      "has_synced": false,
+      "path": "select/01_Cosmic_Sigh_Erin_Rae.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cosmic Perspective",
+      "artist": "Mndsgn",
+      "has_synced": true,
+      "path": "select/02_Cosmic_Perspective_Mndsgn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sly - Cosmic Dub",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/03_Sly_-_Cosmic_Dub_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sly (Cosmic Dub)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/04_Sly_(Cosmic_Dub)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby I - Cosmic Dawn Radio Edit",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_Baby_I_-_Cosmic_Dawn_Radio_Edit_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby I (Cosmic Dawn Radio Edit)",
+      "artist": "アリアナ・グランデ",
+      "has_synced": true,
+      "path": "select/06_Baby_I_(Cosmic_Dawn_Radio_Edit)_アリアナ・グランデ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cosmic Girl",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/07_Cosmic_Girl_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cosmic Girl",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/08_Cosmic_Girl_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cosmic Thing",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/09_Cosmic_Thing_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cosmic Thing",
+      "artist": "The B‐52s",
+      "has_synced": true,
+      "path": "select/10_Cosmic_Thing_The_B‐52s.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cosmic Trip",
+      "artist": "AIR",
+      "has_synced": true,
+      "path": "select/11_Cosmic_Trip_AIR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Some things Cosmic",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/12_Some_things_Cosmic_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cosmic Thing",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/13_Cosmic_Thing_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cosmic Address",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/14_Cosmic_Address_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Creep - Cosmic Dawn Remix - Extended",
+      "artist": "Parralox",
+      "has_synced": false,
+      "path": "select/15_Creep_-_Cosmic_Dawn_Remix_-_Extended_Parralox.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cosmic Country Noir",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/16_Cosmic_Country_Noir_Stereolab.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cosmic",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Cosmic_Red_Velvet.txt"
+    }
+  ]
+}
